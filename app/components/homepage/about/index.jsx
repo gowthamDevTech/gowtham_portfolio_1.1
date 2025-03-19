@@ -38,10 +38,3 @@ function AboutSection() {
 export default AboutSection;
 
 //about page
-
-// module.exports = {
-//   plugins: {
-//     tailwindcss: {},
-//     autoprefixer: {},
-//   },
-// }
